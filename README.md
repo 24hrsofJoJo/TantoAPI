@@ -1,2 +1,2 @@
 # TantoAPI
-Simple C++ micro web framework
+Small C++ micro web framework
